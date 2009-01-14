@@ -1,3 +1,3 @@
-code generator class for generating objects to be used on both DB side
+Code generator program to generate matching objects on both DB side
 and client side.
 
